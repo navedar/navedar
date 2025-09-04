@@ -20,5 +20,3 @@
 
 - <b>📫 Connect</b>
 LinkedIn: https://www.linkedin.com/in/navedar/
-
-Check out my repos below! 🚀

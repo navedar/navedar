@@ -1,5 +1,5 @@
-👋 Hi, I'm Naved Anjum Rehman
-<br/>I'm an Engineering Manager and Full Stack Developer with 9+ years of experience in web/mobile app development, team leadership, and SEO optimization. I specialize in building scalable platforms and driving business impact through innovative solutions.
+👋 Hi, I'm Naved Anjum Rehman, an Engineering Manager and Full Stack Developer with 9+ years of experience in web/mobile app development, team leadership, and SEO optimization. I specialize in building scalable platforms and driving business impact through innovative solutions.
+
 - <b>Key Achievements</b> 
 <br/>Delivered 40+ projects (web apps, mobile apps, CMSs, eShops) for media, real estate, and fashion brands, boosting sales by up to 40% and user retention by 80%.
 <br/>Scaled platforms to support 300,000+ concurrent users, with 50% better SEO rankings and 10x organic traffic growth.
